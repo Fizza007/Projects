@@ -1,85 +1,39 @@
+# Fizza Shahtaj
 
-# Hospital Management Database System
+### **Data Analyst | SQL Enthusiast | Excel Expert**
 
-Table of Contents
+Welcome to my GitHub profile! I’m Fizza Shahtaj, a data analyst with a passion for transforming data into actionable insights. With a solid foundation in SQL, Excel, and data analysis, I thrive in roles that require meticulous attention to detail and problem-solving skills. I specialize in database management, data reconciliation, and quality assurance, all while ensuring data integrity and accuracy.
 
-1. [Introduction](#introduction)
-2. [Objectives](#objectives)
-3. [System Requirements](#system-requirements)
-4. [Database Design](#database-design)
-   - [Entity-Relationship Diagram (ERD)](#entity-relationship-diagram-erd)
-   - [Tables and Relationships](#tables-and-relationships)
-5. [Implementation](#implementation)
-   - [Setting up the Database](#setting-up-the-database)
-   - [Inserting Data](#inserting-data)
-6. [Functionalities](#functionalities)
-   - [Doctor's Search Functionality](#doctors-search-functionality)
-   - [Hospital Manager's Search Functionality](#hospital-managers-search-functionality)
-7. [Testing](#testing)
-8. [Conclusion](#conclusion)
+## **About Me**
 
-Introduction
+I have hands-on experience working with high volumes of data, particularly in billing platform migrations, where my role involved extensive data context pre-analysis, reconciliation, and data quality analysis. My expertise in Microsoft Excel and QuickBooks allows me to manage and manipulate complex datasets efficiently, ensuring seamless data transitions and reporting.
 
-The **Hospital Management System (HMS)** is a database system designed to automate the management of hospital operations. It provides an efficient way for doctors to access patient records and for hospital managers to manage patient details, billing, treatment plans, and doctor assignments.
+Check out my [LinkedIn Profile](https://www.linkedin.com/in/fizza-s-4ba95a19a/) to learn more about my professional journey and connect with me!
 
- ## Objectives
+## **Skills**
 
-- Develop a functional database system for hospital management.
-- Enable doctors to search for patients and view their medical records.
-- Allow hospital managers to manage patient details, including bills, treatment plans, and assigned doctors.
+- **Data Analysis & Research**
+- **Data Reconciliation**
+- **Advanced Excel (VLOOKUP, Pivot Tables, Advanced Functions)**
+- **SQL & Database Management**
+- **QuickBooks**
+- **Data Quality Assurance**
+- **Time Management**
+- **Independent & Collaborative Work**
+- **Communication & Organization**
+- **Problem Solving & Critical Thinking**
 
-## System Requirements
+## **Projects**
 
-### Software
-- MySQL Server
-- MySQL Workbench
+Here are some of the projects I’ve worked on:
 
-### Hardware
-- A computer with at least **4 GB RAM**
-- Stable internet connection for setting up and accessing the database
+### 1. **Hospital Management Database System**
+   - Developed a comprehensive database system to manage hospital operations, including patient records, billing, and treatment plans.
 
-## Database Design
+### 2. **Billing Platform Migration**
+   - Led data analysis and quality assurance for the migration of a complex billing platform, ensuring seamless data integration and accuracy.
 
-### Entity-Relationship Diagram (ERD)
+## **Get in Touch**
 
-The ERD illustrates the relationships between entities in the HMS database, including **Doctor**, **Patient**, **TreatmentPlan**, **Bill**, and **Assignment**.
+I’m always open to discussing new opportunities and collaborations. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/fizza-s-4ba95a19a/) or explore my GitHub repositories for more insights into my work!
 
-### Tables and Relationships
-
-- **Doctor Table**: Stores information about doctors.
-- **Patient Table**: Stores patient details.
-- **TreatmentPlan Table**: Contains information about treatment plans.
-- **Bill Table**: Records billing information.
-- **Assignment Table**: Manages the relationships between patients, doctors, and treatment plans.
-
-## Implementation
-
-### Setting up the Database
-
-1. Install **MySQL Server** and **MySQL Workbench**.
-2. Create a new database named `HospitalDB`.
-
-### Inserting Data
-
-Populate the database tables with sample data to test the system's functionalities.
-
-## Functionalities
-
-### Doctor's Search Functionality
-
-- Allows doctors to search for patients and view their medical records.
-
-### Hospital Manager's Search Functionality
-
-- Enables hospital managers to view comprehensive patient details, including bills, treatment plans, and assigned doctors.
-
-## Testing
-
-Test the system by executing queries to validate that all functionalities work as expected. Ensure the following:
-
-1. The doctor's search functionality returns correct patient details.
-2. The hospital manager's search functionality provides accurate patient information, including billing and treatment details.
-
-## Conclusion
-
-This project successfully implements a Hospital Management System that facilitates efficient data management, enabling doctors and hospital managers to access and manage patient information effectively.
